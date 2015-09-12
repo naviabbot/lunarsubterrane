@@ -1,0 +1,8 @@
+# Site settings
+title: Lunar Subterrane
+description: Striving to provide quality and unbiased content of Final Fantasy games, Handheld, Console, and PC.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown

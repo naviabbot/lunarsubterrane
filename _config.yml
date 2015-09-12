@@ -6,3 +6,6 @@ url: "http://yourdomain.com" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
+
+gems: ['kramdown']
+exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor', 'Procfile', 'Rakefile']
